@@ -14,8 +14,7 @@
   },
   "devDependencies": {
     "@vue/cli-service": "^3.7.0",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.1.0",
+    "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "compass-mixins": "^0.12.10",
@@ -23,6 +22,8 @@
     "font-awesome": "^4.7.0",
     "material-design-icons-iconfont": "^4.0.5",
     "mdi": "^2.2.43",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
   },
   "postcss": {
